@@ -4,7 +4,7 @@
 
   <a>
 
-    <img src="https://readme-typing-svg.demolab.com/?lines=Gak%20Usah%20Liat;Ga%20Punya%20Apa%20Apa;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&pause=1000&size=22" /></a>
+ <img src="https://readme-typing-svg.demolab.com/?lines=Gak%20Usah%20Liat;Ga%20Punya%20Apa%20Apa;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&pause=1000&size=22" /></a>
 
 </p>
 
