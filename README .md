@@ -19,7 +19,7 @@
 <h1> <img src="https://graph.org/file/81031ae4f6fc193a52f4b.jpg"
   " width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/telegram_icon.png" width="80px">](https://t.me/Banned_007) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/github_icon.png" width="80px">](https://github.com/sagaProjects) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/insta_icon.png" width="80px">](https://instagram/pratama_tama07)
+[<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/telegram_icon.png" width="80px">](https://t.me/cmrswan) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/github_icon.png" width="80px">](https://github.com/sagaProjects) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/insta_icon.png" width="80px">](https://instagram/pratama_tama_07)
 
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/sagaProjects)
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/sagaProjects)
